@@ -1,10 +1,10 @@
 # 👋 Hi, I'm David Zhorzholiani!
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented **System/DevOps Engineer**  I am currently working at Stonebranch as a systems engineer.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🌱 Currently learning: Systems architecture, cloud-native solutions, CI/CD pipelines
-- 🛠️ Skills: Linux/Windows server management, Automation, AWS, Cloudflare
+- 🛠️ Skills: Linux/Windows server management, Automation, AWS, Cloudflare, full stack web development. 
 - 📫 How to reach me: [Data@zhorzholiani.com](mailto:Data@zhorzholiani.com) or connect via [LinkedIn](https://www.linkedin.com/in/david-zhorzholiani-343307231/)
 
 ## 🧰 My Toolbox
