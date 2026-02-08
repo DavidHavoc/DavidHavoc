@@ -1,22 +1,32 @@
-# 👋 Hi, I'm David Zhorzholiani!
+David Zhorzholiani
+Welcome to my GitHub profile. I build and automate infrastructure systems that bridge development and operations with reliability, performance, and scalability in mind.
 
-Welcome to my GitHub profile!
+About Me
+I specialize in infrastructure automation, cloud-native architectures, and systems engineering. My work focuses on designing efficient environments using modern DevOps practices and site reliability principles.
 
-## 🚀 About Me
-- 🌱 Currently learning: Systems architecture, cloud-native solutions, CI/CD pipelines
-- 🛠️ Skills: Linux/Windows server management, Automation, AWS, Cloudflare, full stack web development. 
-- 📫 How to reach me: [Data@zhorzholiani.com](mailto:Data@zhorzholiani.com) or connect via [LinkedIn](https://www.linkedin.com/in/david-zhorzholiani-343307231/)
+Currently learning advanced systems architecture, CI/CD pipeline design, and large-scale cloud management.
 
-## 🧰 My Toolbox
-- **Languages**: Javascript, Rust, Python, C++
-- **Cloud Platforms**: AWS, Cloudflare
-- **Tools & Technologies**: Docker, Kubernetes, Terraform,, Jenkins, GitLab CI/CD, Prometheus, Grafana
-- **Operating Systems**: Linux (Debian, CentOS, Ubuntu)
-- **Containerization & Orchestration**: Docker, Kubernetes, Helm
-- **Infrastructure as Code**: Terraform
-- **Monitoring & Logging**: Prometheus, Grafana
+Strong background in Linux and Windows server administration, automation tooling, and cloud integrations.
 
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/david-zhorzholiani-343307231/)
-- [Portfolio](https://david.zhorzholiani.com )
+Technical Skills
+Languages: JavaScript, Rust, Python, C++
+Operating Systems: Linux (Debian, Ubuntu, CentOS), Windows Server
+Cloud Platforms: AWS, Cloudflare
+Infrastructure as Code: Terraform, Ansible
+Containerization & Orchestration: Docker, Kubernetes, Helm
+CI/CD & Automation: Jenkins, GitLab CI/CD, AWX
+Monitoring & Observability: Prometheus, Grafana
+
+Current Focus
+Automating infrastructure provisioning and monitoring processes.
+
+Developing scalable CI/CD pipelines for multi-environment deployments.
+
+Improving reliability and performance through observability and metrics-driven design.
+
+Links
+Portfolio: david.zhorzholiani.com
+
+LinkedIn: linkedin.com/in/david-zhorzholiani-343307231
+
