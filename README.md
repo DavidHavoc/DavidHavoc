@@ -1,4 +1,6 @@
-David Zhorzholiani
+hi,
+... 
+
 Welcome to my GitHub profile. I build and automate infrastructure systems that bridge development and operations with reliability, performance, and scalability in mind.
 
 About Me
